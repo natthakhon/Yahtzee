@@ -1,0 +1,6 @@
+D:\code\Yahtzee\YahtzeeModel\bin\Debug\YahtzeeModel.dll
+D:\code\Yahtzee\YahtzeeModel\bin\Debug\YahtzeeModel.pdb
+D:\code\Yahtzee\YahtzeeModel\obj\Debug\YahtzeeModel.csproj.CoreCompileInputs.cache
+D:\code\Yahtzee\YahtzeeModel\obj\Debug\YahtzeeModel.dll
+D:\code\Yahtzee\YahtzeeModel\obj\Debug\YahtzeeModel.pdb
+D:\code\Yahtzee\YahtzeeModel\obj\Debug\YahtzeeModel.csproj.AssemblyReference.cache

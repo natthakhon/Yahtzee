@@ -1,0 +1,13 @@
+D:\code\Yahtzee\YahtzeeUI\bin\Debug\YahtzeeUI.exe.config
+D:\code\Yahtzee\YahtzeeUI\bin\Debug\YahtzeeUI.exe
+D:\code\Yahtzee\YahtzeeUI\bin\Debug\YahtzeeUI.pdb
+D:\code\Yahtzee\YahtzeeUI\bin\Debug\YahtzeeModel.dll
+D:\code\Yahtzee\YahtzeeUI\bin\Debug\YahtzeeModel.pdb
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.csproj.AssemblyReference.cache
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.Form1.resources
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.Properties.Resources.resources
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.csproj.GenerateResource.cache
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.csproj.CoreCompileInputs.cache
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.csproj.CopyComplete
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.exe
+D:\code\Yahtzee\YahtzeeUI\obj\Debug\YahtzeeUI.pdb

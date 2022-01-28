@@ -1,0 +1,16 @@
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\YahtzeeModel.Test.dll
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\YahtzeeModel.Test.pdb
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\YahtzeeModel.dll
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\YahtzeeModel.pdb
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\code\Yahtzee\YahtzeeModel.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\code\Yahtzee\YahtzeeModel.Test\obj\Debug\YahtzeeModel.Test.csproj.AssemblyReference.cache
+D:\code\Yahtzee\YahtzeeModel.Test\obj\Debug\YahtzeeModel.Test.csproj.CoreCompileInputs.cache
+D:\code\Yahtzee\YahtzeeModel.Test\obj\Debug\YahtzeeModel.Test.csproj.CopyComplete
+D:\code\Yahtzee\YahtzeeModel.Test\obj\Debug\YahtzeeModel.Test.dll
+D:\code\Yahtzee\YahtzeeModel.Test\obj\Debug\YahtzeeModel.Test.pdb
