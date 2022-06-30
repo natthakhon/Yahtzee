@@ -8,7 +8,7 @@ using static YahtzeeModel.CategoryEnum;
 namespace YahtzeeModel
 {
     /// <summary>
-    /// test
+    /// testdghedtydygrtdfhgtrdhtrdygrtyg
     /// </summary>
     public class Chance : Category
     {
